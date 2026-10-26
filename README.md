@@ -20,6 +20,11 @@ Representing number of flights (in collected data)
 for France, Germany, Australia and Germany
 from Oct 19 to Oct 25
 
+# Fun fact
+Based to ultra fast superficial analysis, only flights
+found above 14000 meters are those from 'United States'
+and 'United Kingdom' (smthg to do w/ being United ?)
+
 
 
 
